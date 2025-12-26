@@ -1,0 +1,12 @@
+### API Packages
+- Npgsql.EntityFrameworkCore.PostgreSQL / Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Tools
+- Microsoft.EntityFrameworkCore
+- Swashbuckle.AspNetCore : For Swagger
+- Serilog.AspNetCore : Integrates Serilog with the ASP.NET Core hosting environment.
+- Serilog.Sinks.Console : Allows you to see logs in the development console.
+- Serilog.Sinks.File : Writes logs to a file
+- Serilog.Sinks.Seq : push logs to a central server.
+- Moq : For testing with dependency Injection
+- xUNit : For Testing
+- Microsoft.EntityFrameworkCore.Design
